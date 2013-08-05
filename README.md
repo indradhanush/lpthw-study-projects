@@ -45,6 +45,7 @@ my list so far:
 19. A socket honey pot daemon.
 20. A daemon that receives block requests over zeromq and blocks IP addresses with firewall rules.
 21. A custom web scraper.
+22. A command line POST tool to post logs or anything directly to a url. Useful in places where no GUI is available to use something like bpaste.net etc. Insipired from ix.io
 
 If you have other suggestions then send me a pull request to this document.  The key
 is to think, "What would really help a modern sysadmin understand and automate the hell
